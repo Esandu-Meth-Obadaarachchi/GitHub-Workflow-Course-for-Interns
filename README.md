@@ -1,7 +1,6 @@
 # 🐙 GitHub: Zero to Production
 ### A Complete Course for Developers & Interns
-
-> **Author:** Claude (Anthropic)  
+ 
 > **Branch:** `claude/full-github-course` → `dev` → `main`  
 > **Level:** Beginner to Advanced Production Workflows
 
